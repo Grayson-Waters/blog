@@ -16,12 +16,13 @@ header h1 a {
 
 .nav-left { 
 margin-right: auto;
- } 
+} 
 
 .nav-right { 
     display: flex; 
     padding-top: 2rem;
- } 
+} 
+
 .post-entry { 
     margin-bottom: 2rem;
 }
@@ -29,6 +30,7 @@ margin-right: auto;
 .post-entry h2 { 
     margin: 0.5rem 0;
 } 
+
 .post-entry h2 a,
 .post-entry h2 a:visited { 
     color: blue; 
